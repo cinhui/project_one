@@ -1,0 +1,68 @@
+﻿Restaurants,[ Edit ],Range
+"Meal, Inexpensive Restaurant ",15.00 $,10.00-20.00
+"Meal for 2 People, Mid-range Restaurant, Three-course ",65.00 $,48.00-90.00
+McMeal at McDonalds (or Equivalent Combo Meal) ,7.00 $,6.00-8.00
+Domestic Beer (1 pint draught) ,5.00 $,4.00-6.00
+Imported Beer (12 oz small bottle) ,6.00 $,5.00-8.00
+Cappuccino (regular) ,4.09 $,3.00-5.00
+Coke/Pepsi (12 oz small bottle) ,1.82 $,1.25-2.50
+Water (12 oz small bottle) ,1.61 $,1.00-2.50
+Markets,[ Edit ],
+"Milk (regular), (1 gallon) ",2.75 $,2.00-3.99
+Loaf of Fresh White Bread (1 lb) ,2.36 $,1.00-3.00
+"Rice (white), (1 lb) ",1.83 $,1.00-3.99
+Eggs (regular) (12) ,2.13 $,1.00-3.00
+Local Cheese (1 lb) ,5.40 $,3.00-7.00
+"Chicken Breasts (Boneless, Skinless), (1 lb) ",4.68 $,2.00-7.00
+Beef Round (1 lb) (or Equivalent Back Leg Red Meat) ,5.50 $,2.99-8.00
+Apples (1 lb) ,2.10 $,1.20-3.00
+Banana (1 lb) ,0.81 $,0.59-1.00
+Oranges (1 lb) ,1.86 $,1.00-4.00
+Tomato (1 lb) ,1.49 $,1.00-2.72
+Potato (1 lb) ,0.96 $,0.50-1.81
+Onion (1 lb) ,0.96 $,0.50-1.50
+Lettuce (1 head) ,1.39 $,0.99-2.00
+Water (1.5 liter bottle) ,1.95 $,1.00-3.00
+Bottle of Wine (Mid-Range) ,12.00 $,10.00-15.00
+Domestic Beer (0.5 liter bottle) ,1.80 $,1.25-2.13
+Imported Beer (12 oz small bottle) ,2.19 $,1.50-3.00
+Cigarettes 20 Pack (Marlboro) ,12.50 $,10.00-15.00
+Transportation,[ Edit ],
+One-way Ticket (Local Transport) ,2.50 $,2.25-2.75
+Monthly Pass (Regular Price) ,105.00 $,100.00-105.00
+Taxi Start (Normal Tariff) ,3.25 $,3.00-3.85
+Taxi 1 mile (Normal Tariff) ,2.25 $,1.80-4.00
+Taxi 1hour Waiting (Normal Tariff) ,24.00 $,20.00-31.80
+Gasoline (1 gallon) ,3.16 $,2.60-3.64
+Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) ,"20,910.00 $","18,890.00-25,000.00"
+Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car) ,"20,672.92 $","17,000.00-25,000.00"
+Utilities (Monthly),[ Edit ],
+"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment ",126.15 $,60.00-225.00
+1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) ,0.14 $,0.05-0.20
+"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL) ",60.77 $,49.99-90.00
+Sports And Leisure,[ Edit ],
+"Fitness Club, Monthly Fee for 1 Adult ",49.44 $,25.00-80.00
+Tennis Court Rent (1 Hour on Weekend) ,25.75 $,10.00-40.00
+"Cinema, International Release, 1 Seat ",12.00 $,10.50-15.00
+Childcare,[ Edit ],
+"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child ","1,049.52 $","500.00-1,500.00"
+"International Primary School, Yearly for 1 Child ","15,540.00 $","8,500.00-25,000.00"
+Clothing And Shoes,[ Edit ],
+1 Pair of Jeans (Levis 501 Or Similar) ,51.52 $,35.00-70.00
+"1 Summer Dress in a Chain Store (Zara, H&M, ...) ",37.16 $,20.00-60.00
+1 Pair of Nike Running Shoes (Mid-Range) ,78.20 $,55.00-100.00
+1 Pair of Men Leather Business Shoes ,113.53 $,70.00-200.00
+Rent Per Month,[ Edit ],
+Apartment (1 bedroom) in City Centre ,"1,741.03 $","1,200.00-2,280.00"
+Apartment (1 bedroom) Outside of Centre ,"1,125.29 $","850.00-1,500.00"
+Apartment (3 bedrooms) in City Centre ,"3,257.66 $","2,400.00-5,000.00"
+Apartment (3 bedrooms) Outside of Centre ,"1,982.69 $","1,229.46-3,000.00"
+Buy Apartment Price,[ Edit ],
+Price per Square Feet to Buy Apartment in City Centre ,338.02 $,273.41-411.66
+Price per Square Feet to Buy Apartment Outside of Centre ,183.54 $,123.02-250.00
+Salaries And Financing,[ Edit ],
+Average Monthly Net Salary (After Tax) ,"3,860.47 $",
+"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate ",4.32,3.99-4.90
+"Prices in Chicago, Illinois",,
+These data are based on 2850 entries in the past 18 months from 416 different contributors. ,,
+Last update: March 2019,,
