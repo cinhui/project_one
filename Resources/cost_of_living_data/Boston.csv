@@ -1,0 +1,68 @@
+﻿Restaurants,[ Edit ],Range
+"Meal, Inexpensive Restaurant ",15.00 $,12.00-20.00
+"Meal for 2 People, Mid-range Restaurant, Three-course ",69.00 $,45.00-90.00
+McMeal at McDonalds (or Equivalent Combo Meal) ,8.00 $,6.50-9.50
+Domestic Beer (1 pint draught) ,6.00 $,5.00-8.00
+Imported Beer (12 oz small bottle) ,7.21 $,6.00-8.00
+Cappuccino (regular) ,3.88 $,3.00-4.50
+Coke/Pepsi (12 oz small bottle) ,1.86 $,1.50-2.00
+Water (12 oz small bottle) ,1.49 $,1.00-2.00
+Markets,[ Edit ],
+"Milk (regular), (1 gallon) ",3.20 $,2.50-4.00
+Loaf of Fresh White Bread (1 lb) ,2.49 $,1.70-3.50
+"Rice (white), (1 lb) ",1.87 $,1.20-3.00
+Eggs (regular) (12) ,2.84 $,2.00-3.50
+Local Cheese (1 lb) ,5.43 $,3.00-8.99
+"Chicken Breasts (Boneless, Skinless), (1 lb) ",5.82 $,2.99-8.00
+Beef Round (1 lb) (or Equivalent Back Leg Red Meat) ,7.31 $,5.99-9.00
+Apples (1 lb) ,2.21 $,1.29-3.00
+Banana (1 lb) ,0.72 $,0.39-1.20
+Oranges (1 lb) ,3.36 $,1.00-6.00
+Tomato (1 lb) ,2.26 $,1.49-4.00
+Potato (1 lb) ,1.94 $,0.99-4.00
+Onion (1 lb) ,1.60 $,0.99-2.50
+Lettuce (1 head) ,1.89 $,1.50-3.00
+Water (1.5 liter bottle) ,1.65 $,1.50-2.00
+Bottle of Wine (Mid-Range) ,15.00 $,12.99-20.00
+Domestic Beer (0.5 liter bottle) ,2.03 $,1.99-2.14
+Imported Beer (12 oz small bottle) ,2.98 $,2.40-3.50
+Cigarettes 20 Pack (Marlboro) ,11.00 $,10.00-11.50
+Transportation,[ Edit ],
+One-way Ticket (Local Transport) ,2.50 $,2.25-2.75
+Monthly Pass (Regular Price) ,84.50 $,82.50-85.00
+Taxi Start (Normal Tariff) ,2.60 $,2.50-5.00
+Taxi 1 mile (Normal Tariff) ,3.60 $,2.80-7.00
+Taxi 1hour Waiting (Normal Tariff) ,28.00 $,28.00-30.00
+Gasoline (1 gallon) ,2.81 $,2.51-3.00
+Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) ,"22,000.00 $","19,895.00-23,000.00"
+Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car) ,"19,779.00 $","17,000.00-23,000.00"
+Utilities (Monthly),[ Edit ],
+"Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment ",154.08 $,91.49-286.88
+1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) ,0.09 $,0.05-0.10
+"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL) ",63.94 $,49.00-100.00
+Sports And Leisure,[ Edit ],
+"Fitness Club, Monthly Fee for 1 Adult ",52.96 $,29.00-95.00
+Tennis Court Rent (1 Hour on Weekend) ,16.14 $,0.00-35.00
+"Cinema, International Release, 1 Seat ",14.00 $,12.00-15.00
+Childcare,[ Edit ],
+"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child ","1,777.59 $","1,400.00-2,300.00"
+"International Primary School, Yearly for 1 Child ","24,903.75 $","14,000.00-35,000.00"
+Clothing And Shoes,[ Edit ],
+1 Pair of Jeans (Levis 501 Or Similar) ,47.55 $,30.00-70.00
+"1 Summer Dress in a Chain Store (Zara, H&M, ...) ",33.16 $,20.00-50.00
+1 Pair of Nike Running Shoes (Mid-Range) ,77.68 $,55.00-100.00
+1 Pair of Men Leather Business Shoes ,95.19 $,60.00-150.00
+Rent Per Month,[ Edit ],
+Apartment (1 bedroom) in City Centre ,"2,367.32 $","1,875.00-3,000.00"
+Apartment (1 bedroom) Outside of Centre ,"1,756.95 $","1,320.00-2,100.00"
+Apartment (3 bedrooms) in City Centre ,"4,048.29 $","3,200.00-5,500.00"
+Apartment (3 bedrooms) Outside of Centre ,"2,765.18 $","2,000.00-3,400.00"
+Buy Apartment Price,[ Edit ],
+Price per Square Feet to Buy Apartment in City Centre ,922.44 $,"500.00-1,099.99"
+Price per Square Feet to Buy Apartment Outside of Centre ,393.84 $,300.00-661.99
+Salaries And Financing,[ Edit ],
+Average Monthly Net Salary (After Tax) ,"4,218.65 $",
+"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate ",4.28,3.95-4.90
+"Prices in Boston, Massachusetts",,
+These data are based on 1929 entries in the past 18 months from 278 different contributors. ,,
+Last update: March 2019,,
