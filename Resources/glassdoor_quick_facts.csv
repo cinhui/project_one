@@ -1,0 +1,950 @@
+Metro,Dimension Type,Month,Dimension,Measure,Value,YoY
+National,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Atlanta,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,52763.0,0.009000000000000001
+Atlanta,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Atlanta,Quick Facts,2017-06,Job Openings,Job Openings,103189.0,0.11900000000000001
+Atlanta,Quick Facts,2017-04,Labor Force Size,Labor Force Size,3008943.0,0.033
+Atlanta,Quick Facts,2017-04,Total Employment,Total Employment,2873916.0,0.037000000000000005
+Atlanta,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.045,-0.003
+New York City,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,60606.0,0.018000000000000002
+New York City,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+New York City,Quick Facts,2017-06,Job Openings,Job Openings,263797.0,0.04
+New York City,Quick Facts,2017-04,Labor Force Size,Labor Force Size,10047028.0,0.005
+New York City,Quick Facts,2017-04,Total Employment,Total Employment,9656968.0,0.013000000000000001
+New York City,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.039,-0.006999999999999999
+Los Angeles,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,59139.0,0.012
+Los Angeles,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Los Angeles,Quick Facts,2017-06,Job Openings,Job Openings,185308.0,0.2
+Los Angeles,Quick Facts,2017-04,Labor Force Size,Labor Force Size,6689427.0,0.01
+Los Angeles,Quick Facts,2017-04,Total Employment,Total Employment,6425206.0,0.018000000000000002
+Los Angeles,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.039,-0.008
+Philadelphia,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,54014.0,0.009000000000000001
+Philadelphia,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Philadelphia,Quick Facts,2017-06,Job Openings,Job Openings,105342.0,0.09
+Philadelphia,Quick Facts,2017-04,Labor Force Size,Labor Force Size,3107489.0,0.008
+Philadelphia,Quick Facts,2017-04,Total Employment,Total Employment,2971508.0,0.013999999999999999
+Philadelphia,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.044000000000000004,-0.005
+Houston,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,54365.0,0.005
+Houston,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Houston,Quick Facts,2017-06,Job Openings,Job Openings,86538.0,0.133
+Houston,Quick Facts,2017-04,Labor Force Size,Labor Force Size,3335800.0,0.018000000000000002
+Houston,Quick Facts,2017-04,Total Employment,Total Employment,3160066.0,0.013000000000000001
+Houston,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.053,0.005
+Seattle,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,59812.0,0.019
+Seattle,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Seattle,Quick Facts,2017-06,Job Openings,Job Openings,99491.0,0.11900000000000001
+Seattle,Quick Facts,2017-04,Labor Force Size,Labor Force Size,2056819.0,0.019
+Seattle,Quick Facts,2017-04,Total Employment,Total Employment,1988166.0,0.027999999999999997
+Seattle,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.033,-0.009000000000000001
+San Francisco,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,68119.0,0.026000000000000002
+San Francisco,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+San Francisco,Quick Facts,2017-06,Job Openings,Job Openings,119469.0,0.142
+San Francisco,Quick Facts,2017-04,Labor Force Size,Labor Force Size,2532235.0,0.003
+San Francisco,Quick Facts,2017-04,Total Employment,Total Employment,2453443.0,0.01
+San Francisco,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.031,-0.006
+Chicago,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,55554.0,0.017
+Chicago,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Chicago,Quick Facts,2017-06,Job Openings,Job Openings,167699.0,0.09699999999999999
+Chicago,Quick Facts,2017-04,Labor Force Size,Labor Force Size,4816698.0,-0.021
+Chicago,Quick Facts,2017-04,Total Employment,Total Employment,4613892.0,-0.004
+Chicago,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.042,-0.017
+Boston,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,58709.0,0.017
+Boston,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Boston,Quick Facts,2017-06,Job Openings,Job Openings,128822.0,0.142
+Boston,Quick Facts,2017-04,Labor Force Size,Labor Force Size,2721716.0,0.031
+Boston,Quick Facts,2017-04,Total Employment,Total Employment,2628172.0,0.031
+Boston,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.034,0.0
+Washington DC,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,58426.0,0.009000000000000001
+Washington DC,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Washington DC,Quick Facts,2017-06,Job Openings,Job Openings,157465.0,0.114
+Washington DC,Quick Facts,2017-04,Labor Force Size,Labor Force Size,3368573.0,0.024
+Washington DC,Quick Facts,2017-04,Total Employment,Total Employment,3252883.0,0.024
+Washington DC,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.034,-0.001
+Atlanta,Quick Facts,2017-06,Metro Median Pay,Metro Median Pay,52763.0,0.009000000000000001
+Atlanta,Quick Facts,2017-06,U.S. Median Pay,U.S. Median Pay,51324.0,0.017
+Atlanta,Quick Facts,2017-06,Job Openings,Job Openings,103189.0,0.11900000000000001
+Atlanta,Quick Facts,2017-04,Labor Force Size,Labor Force Size,3008943.0,0.033
+Atlanta,Quick Facts,2017-04,Total Employment,Total Employment,2873916.0,0.037000000000000005
+Atlanta,Quick Facts,2017-04,Unemployment Rate,Unemployment Rate,0.045,-0.003
+National,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Atlanta,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,52921.0,0.009000000000000001
+Atlanta,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Atlanta,Quick Facts,2017-07,Job Openings,Job Openings,109349.0,0.18100000000000002
+Atlanta,Quick Facts,2017-05,Labor Force Size,Labor Force Size,3020179.0,0.034
+Atlanta,Quick Facts,2017-05,Total Employment,Total Employment,2882848.0,0.036000000000000004
+Atlanta,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.045,-0.002
+New York City,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,60405.0,0.015
+New York City,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+New York City,Quick Facts,2017-07,Job Openings,Job Openings,282815.0,0.11699999999999999
+New York City,Quick Facts,2017-05,Labor Force Size,Labor Force Size,10054375.0,0.006999999999999999
+New York City,Quick Facts,2017-05,Total Employment,Total Employment,9640913.0,0.011000000000000001
+New York City,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.040999999999999995,-0.004
+Los Angeles,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,59064.0,0.005
+Los Angeles,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Los Angeles,Quick Facts,2017-07,Job Openings,Job Openings,194015.0,0.252
+Los Angeles,Quick Facts,2017-05,Labor Force Size,Labor Force Size,6676230.0,0.009000000000000001
+Los Angeles,Quick Facts,2017-05,Total Employment,Total Employment,6420362.0,0.016
+Los Angeles,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.038,-0.008
+Philadelphia,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,54210.0,0.013000000000000001
+Philadelphia,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Philadelphia,Quick Facts,2017-07,Job Openings,Job Openings,107665.0,0.071
+Philadelphia,Quick Facts,2017-05,Labor Force Size,Labor Force Size,3101812.0,0.006
+Philadelphia,Quick Facts,2017-05,Total Employment,Total Employment,2950615.0,0.006999999999999999
+Philadelphia,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.049,-0.001
+Houston,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,54352.0,-0.001
+Houston,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Houston,Quick Facts,2017-07,Job Openings,Job Openings,91107.0,0.198
+Houston,Quick Facts,2017-05,Labor Force Size,Labor Force Size,3312194.0,0.012
+Houston,Quick Facts,2017-05,Total Employment,Total Employment,3144590.0,0.01
+Houston,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.051,0.002
+Seattle,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,59879.0,0.018000000000000002
+Seattle,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Seattle,Quick Facts,2017-07,Job Openings,Job Openings,103437.0,0.14400000000000002
+Seattle,Quick Facts,2017-05,Labor Force Size,Labor Force Size,2056326.0,0.018000000000000002
+Seattle,Quick Facts,2017-05,Total Employment,Total Employment,1981891.0,0.025
+Seattle,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.036000000000000004,-0.006999999999999999
+San Francisco,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,67826.0,0.018000000000000002
+San Francisco,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+San Francisco,Quick Facts,2017-07,Job Openings,Job Openings,128054.0,0.223
+San Francisco,Quick Facts,2017-05,Labor Force Size,Labor Force Size,2527358.0,0.002
+San Francisco,Quick Facts,2017-05,Total Employment,Total Employment,2451061.0,0.006
+San Francisco,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.03,-0.004
+Chicago,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,55252.0,0.01
+Chicago,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Chicago,Quick Facts,2017-07,Job Openings,Job Openings,176439.0,0.139
+Chicago,Quick Facts,2017-05,Labor Force Size,Labor Force Size,4850534.0,-0.011000000000000001
+Chicago,Quick Facts,2017-05,Total Employment,Total Employment,4652688.0,0.001
+Chicago,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.040999999999999995,-0.012
+Boston,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,58531.0,0.019
+Boston,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Boston,Quick Facts,2017-07,Job Openings,Job Openings,131660.0,0.191
+Boston,Quick Facts,2017-05,Labor Force Size,Labor Force Size,2719862.0,0.032
+Boston,Quick Facts,2017-05,Total Employment,Total Employment,2616982.0,0.027999999999999997
+Boston,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.038,0.004
+Washington DC,Quick Facts,2017-07,Metro Median Pay,Metro Median Pay,58453.0,0.009000000000000001
+Washington DC,Quick Facts,2017-07,U.S. Median Pay,U.S. Median Pay,51120.0,0.012
+Washington DC,Quick Facts,2017-07,Job Openings,Job Openings,167743.0,0.133
+Washington DC,Quick Facts,2017-05,Labor Force Size,Labor Force Size,3385298.0,0.026000000000000002
+Washington DC,Quick Facts,2017-05,Total Employment,Total Employment,3262120.0,0.025
+Washington DC,Quick Facts,2017-05,Unemployment Rate,Unemployment Rate,0.036000000000000004,0.0
+National,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Atlanta,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,53209.0,0.016
+Atlanta,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Atlanta,Quick Facts,2017-08,Job Openings,Job Openings,109897.0,0.149
+Atlanta,Quick Facts,2017-06,Labor Force Size,Labor Force Size,3037341.0,0.036000000000000004
+Atlanta,Quick Facts,2017-06,Total Employment,Total Employment,2889697.0,0.040999999999999995
+Atlanta,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.049,-0.004
+New York City,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,60755.0,0.019
+New York City,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+New York City,Quick Facts,2017-08,Job Openings,Job Openings,289577.0,0.111
+New York City,Quick Facts,2017-06,Labor Force Size,Labor Force Size,10152281.0,0.009000000000000001
+New York City,Quick Facts,2017-06,Total Employment,Total Employment,9714962.0,0.015
+New York City,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.043,-0.005
+Los Angeles,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,59972.0,0.021
+Los Angeles,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Los Angeles,Quick Facts,2017-08,Job Openings,Job Openings,199341.0,0.218
+Los Angeles,Quick Facts,2017-06,Labor Force Size,Labor Force Size,6686875.0,0.01
+Los Angeles,Quick Facts,2017-06,Total Employment,Total Employment,6396249.0,0.018000000000000002
+Los Angeles,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.043,-0.008
+Philadelphia,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,54632.0,0.018000000000000002
+Philadelphia,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Philadelphia,Quick Facts,2017-08,Job Openings,Job Openings,111219.0,0.065
+Philadelphia,Quick Facts,2017-06,Labor Force Size,Labor Force Size,3118975.0,0.005
+Philadelphia,Quick Facts,2017-06,Total Employment,Total Employment,2968755.0,0.011000000000000001
+Philadelphia,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.048,-0.006
+Houston,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,54538.0,0.005
+Houston,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Houston,Quick Facts,2017-08,Job Openings,Job Openings,91920.0,0.192
+Houston,Quick Facts,2017-06,Labor Force Size,Labor Force Size,3322070.0,0.008
+Houston,Quick Facts,2017-06,Total Employment,Total Employment,3145634.0,0.011000000000000001
+Houston,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.053,-0.003
+Seattle,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,60487.0,0.021
+Seattle,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Seattle,Quick Facts,2017-08,Job Openings,Job Openings,104781.0,0.14400000000000002
+Seattle,Quick Facts,2017-06,Labor Force Size,Labor Force Size,2053338.0,0.013999999999999999
+Seattle,Quick Facts,2017-06,Total Employment,Total Employment,1970540.0,0.02
+Seattle,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.04,-0.006
+San Francisco,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,68164.0,0.024
+San Francisco,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+San Francisco,Quick Facts,2017-08,Job Openings,Job Openings,128717.0,0.201
+San Francisco,Quick Facts,2017-06,Labor Force Size,Labor Force Size,2540734.0,0.0
+San Francisco,Quick Facts,2017-06,Total Employment,Total Employment,2449072.0,0.004
+San Francisco,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.036000000000000004,-0.004
+Chicago,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,55550.0,0.016
+Chicago,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Chicago,Quick Facts,2017-08,Job Openings,Job Openings,175097.0,0.079
+Chicago,Quick Facts,2017-06,Labor Force Size,Labor Force Size,4960092.0,-0.008
+Chicago,Quick Facts,2017-06,Total Employment,Total Employment,4717322.0,0.004
+Chicago,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.049,-0.011000000000000001
+Boston,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,58731.0,0.024
+Boston,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Boston,Quick Facts,2017-08,Job Openings,Job Openings,128956.0,0.1
+Boston,Quick Facts,2017-06,Labor Force Size,Labor Force Size,2748756.0,0.028999999999999998
+Boston,Quick Facts,2017-06,Total Employment,Total Employment,2638752.0,0.026000000000000002
+Boston,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.04,0.003
+Washington DC,Quick Facts,2017-08,Metro Median Pay,Metro Median Pay,59141.0,0.023
+Washington DC,Quick Facts,2017-08,U.S. Median Pay,U.S. Median Pay,51556.0,0.02
+Washington DC,Quick Facts,2017-08,Job Openings,Job Openings,165528.0,0.069
+Washington DC,Quick Facts,2017-06,Labor Force Size,Labor Force Size,3424661.0,0.03
+Washington DC,Quick Facts,2017-06,Total Employment,Total Employment,3291877.0,0.031
+Washington DC,Quick Facts,2017-06,Unemployment Rate,Unemployment Rate,0.039,-0.001
+National,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Atlanta,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,53025.0,0.015
+Atlanta,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Atlanta,Quick Facts,2017-09,Job Openings,Job Openings,113029.0,0.141
+Atlanta,Quick Facts,2017-07,Labor Force Size,Labor Force Size,3051263.0,0.031
+Atlanta,Quick Facts,2017-07,Total Employment,Total Employment,2904285.0,0.037000000000000005
+Atlanta,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.048,-0.006
+New York City,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,60821.0,0.02
+New York City,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+New York City,Quick Facts,2017-09,Job Openings,Job Openings,285888.0,0.07
+New York City,Quick Facts,2017-07,Labor Force Size,Labor Force Size,10269641.0,0.013999999999999999
+New York City,Quick Facts,2017-07,Total Employment,Total Employment,9782244.0,0.019
+New York City,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.047,-0.005
+Los Angeles,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,59753.0,0.021
+Los Angeles,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Los Angeles,Quick Facts,2017-09,Job Openings,Job Openings,203719.0,0.23
+Los Angeles,Quick Facts,2017-07,Labor Force Size,Labor Force Size,6757491.0,0.012
+Los Angeles,Quick Facts,2017-07,Total Employment,Total Employment,6420644.0,0.017
+Los Angeles,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.05,-0.005
+Philadelphia,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,54453.0,0.011000000000000001
+Philadelphia,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Philadelphia,Quick Facts,2017-09,Job Openings,Job Openings,111049.0,0.028999999999999998
+Philadelphia,Quick Facts,2017-07,Labor Force Size,Labor Force Size,3132538.0,0.002
+Philadelphia,Quick Facts,2017-07,Total Employment,Total Employment,2969198.0,0.006999999999999999
+Philadelphia,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.052000000000000005,-0.005
+Houston,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,54677.0,0.006999999999999999
+Houston,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Houston,Quick Facts,2017-09,Job Openings,Job Openings,91578.0,0.171
+Houston,Quick Facts,2017-07,Labor Force Size,Labor Force Size,3319615.0,0.003
+Houston,Quick Facts,2017-07,Total Employment,Total Employment,3156971.0,0.012
+Houston,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.049,-0.009000000000000001
+Seattle,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,60426.0,0.019
+Seattle,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Seattle,Quick Facts,2017-09,Job Openings,Job Openings,105355.0,0.152
+Seattle,Quick Facts,2017-07,Labor Force Size,Labor Force Size,2063654.0,0.013999999999999999
+Seattle,Quick Facts,2017-07,Total Employment,Total Employment,1981245.0,0.021
+Seattle,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.04,-0.006
+San Francisco,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,67867.0,0.016
+San Francisco,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+San Francisco,Quick Facts,2017-09,Job Openings,Job Openings,134440.0,0.20800000000000002
+San Francisco,Quick Facts,2017-07,Labor Force Size,Labor Force Size,2568303.0,0.001
+San Francisco,Quick Facts,2017-07,Total Employment,Total Employment,2468249.0,0.004
+San Francisco,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.039,-0.002
+Chicago,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,55528.0,0.009000000000000001
+Chicago,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Chicago,Quick Facts,2017-09,Job Openings,Job Openings,179602.0,0.081
+Chicago,Quick Facts,2017-07,Labor Force Size,Labor Force Size,4943954.0,-0.01
+Chicago,Quick Facts,2017-07,Total Employment,Total Employment,4709322.0,0.001
+Chicago,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.047,-0.011000000000000001
+Boston,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,58887.0,0.021
+Boston,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Boston,Quick Facts,2017-09,Job Openings,Job Openings,132305.0,0.107
+Boston,Quick Facts,2017-07,Labor Force Size,Labor Force Size,2749405.0,0.028999999999999998
+Boston,Quick Facts,2017-07,Total Employment,Total Employment,2639966.0,0.024
+Boston,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.04,0.004
+Washington DC,Quick Facts,2017-09,Metro Median Pay,Metro Median Pay,59061.0,0.018000000000000002
+Washington DC,Quick Facts,2017-09,U.S. Median Pay,U.S. Median Pay,51491.0,0.018000000000000002
+Washington DC,Quick Facts,2017-09,Job Openings,Job Openings,167385.0,0.027000000000000003
+Washington DC,Quick Facts,2017-07,Labor Force Size,Labor Force Size,3455699.0,0.031
+Washington DC,Quick Facts,2017-07,Total Employment,Total Employment,3321277.0,0.032
+Washington DC,Quick Facts,2017-07,Unemployment Rate,Unemployment Rate,0.039,-0.001
+National,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Atlanta,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,52710.0,0.013000000000000001
+Atlanta,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Atlanta,Quick Facts,2017-10,Job Openings,Job Openings,114923.0,0.126
+Atlanta,Quick Facts,2017-08,Labor Force Size,Labor Force Size,3039724.0,0.033
+Atlanta,Quick Facts,2017-08,Total Employment,Total Employment,2899939.0,0.040999999999999995
+Atlanta,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.046,-0.006999999999999999
+New York City,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,60294.0,0.013999999999999999
+New York City,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+New York City,Quick Facts,2017-10,Job Openings,Job Openings,296615.0,0.094
+New York City,Quick Facts,2017-08,Labor Force Size,Labor Force Size,10160481.0,0.011000000000000001
+New York City,Quick Facts,2017-08,Total Employment,Total Employment,9672196.0,0.013000000000000001
+New York City,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.048,-0.002
+Los Angeles,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,59478.0,0.02
+Los Angeles,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Los Angeles,Quick Facts,2017-10,Job Openings,Job Openings,206442.0,0.252
+Los Angeles,Quick Facts,2017-08,Labor Force Size,Labor Force Size,6737326.0,0.011000000000000001
+Los Angeles,Quick Facts,2017-08,Total Employment,Total Employment,6392632.0,0.013000000000000001
+Los Angeles,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.051,-0.002
+Philadelphia,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,54142.0,0.004
+Philadelphia,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Philadelphia,Quick Facts,2017-10,Job Openings,Job Openings,117332.0,0.068
+Philadelphia,Quick Facts,2017-08,Labor Force Size,Labor Force Size,3098451.0,0.0
+Philadelphia,Quick Facts,2017-08,Total Employment,Total Employment,2940293.0,0.004
+Philadelphia,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.051,-0.004
+Houston,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,54136.0,0.0
+Houston,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Houston,Quick Facts,2017-10,Job Openings,Job Openings,99366.0,0.242
+Houston,Quick Facts,2017-08,Labor Force Size,Labor Force Size,3307745.0,0.006
+Houston,Quick Facts,2017-08,Total Employment,Total Employment,3137157.0,0.012
+Houston,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.052000000000000005,-0.005
+Seattle,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,60333.0,0.021
+Seattle,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Seattle,Quick Facts,2017-10,Job Openings,Job Openings,105047.0,0.11
+Seattle,Quick Facts,2017-08,Labor Force Size,Labor Force Size,2077056.0,0.021
+Seattle,Quick Facts,2017-08,Total Employment,Total Employment,1990274.0,0.024
+Seattle,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.042,-0.002
+San Francisco,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,68023.0,0.021
+San Francisco,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+San Francisco,Quick Facts,2017-10,Job Openings,Job Openings,138429.0,0.245
+San Francisco,Quick Facts,2017-08,Labor Force Size,Labor Force Size,2572031.0,0.005
+San Francisco,Quick Facts,2017-08,Total Employment,Total Employment,2470722.0,0.005
+San Francisco,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.039,-0.001
+Chicago,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,55659.0,0.017
+Chicago,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Chicago,Quick Facts,2017-10,Job Openings,Job Openings,185645.0,0.105
+Chicago,Quick Facts,2017-08,Labor Force Size,Labor Force Size,4892644.0,-0.009000000000000001
+Chicago,Quick Facts,2017-08,Total Employment,Total Employment,4635436.0,-0.003
+Chicago,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.053,-0.005
+Boston,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,58504.0,0.017
+Boston,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Boston,Quick Facts,2017-10,Job Openings,Job Openings,136291.0,0.114
+Boston,Quick Facts,2017-08,Labor Force Size,Labor Force Size,2730900.0,0.025
+Boston,Quick Facts,2017-08,Total Employment,Total Employment,2636385.0,0.022000000000000002
+Boston,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.035,0.003
+Washington DC,Quick Facts,2017-10,Metro Median Pay,Metro Median Pay,58676.0,0.011000000000000001
+Washington DC,Quick Facts,2017-10,U.S. Median Pay,U.S. Median Pay,51220.0,0.016
+Washington DC,Quick Facts,2017-10,Job Openings,Job Openings,171977.0,0.042
+Washington DC,Quick Facts,2017-08,Labor Force Size,Labor Force Size,3405922.0,0.027000000000000003
+Washington DC,Quick Facts,2017-08,Total Employment,Total Employment,3278425.0,0.028999999999999998
+Washington DC,Quick Facts,2017-08,Unemployment Rate,Unemployment Rate,0.037000000000000005,-0.003
+National,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Atlanta,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,52824.0,0.013999999999999999
+Atlanta,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Atlanta,Quick Facts,2017-11,Job Openings,Job Openings,110877.0,0.113
+Atlanta,Quick Facts,2017-09,Labor Force Size,Labor Force Size,3057743.0,0.03
+Atlanta,Quick Facts,2017-09,Total Employment,Total Employment,2934193.0,0.044000000000000004
+Atlanta,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.04,-0.013000000000000001
+New York City,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,60091.0,0.011000000000000001
+New York City,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+New York City,Quick Facts,2017-11,Job Openings,Job Openings,291597.0,0.107
+New York City,Quick Facts,2017-09,Labor Force Size,Labor Force Size,10125813.0,0.016
+New York City,Quick Facts,2017-09,Total Employment,Total Employment,9647330.0,0.018000000000000002
+New York City,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.047,-0.002
+Los Angeles,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,59638.0,0.02
+Los Angeles,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Los Angeles,Quick Facts,2017-11,Job Openings,Job Openings,203584.0,0.248
+Los Angeles,Quick Facts,2017-09,Labor Force Size,Labor Force Size,6809825.0,0.019
+Los Angeles,Quick Facts,2017-09,Total Employment,Total Employment,6500038.0,0.024
+Los Angeles,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.045,-0.005
+Philadelphia,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,54064.0,0.006
+Philadelphia,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Philadelphia,Quick Facts,2017-11,Job Openings,Job Openings,110102.0,0.023
+Philadelphia,Quick Facts,2017-09,Labor Force Size,Labor Force Size,3088202.0,0.0
+Philadelphia,Quick Facts,2017-09,Total Employment,Total Employment,2945204.0,0.005
+Philadelphia,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.046,-0.005
+Houston,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,54215.0,0.003
+Houston,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Houston,Quick Facts,2017-11,Job Openings,Job Openings,96707.0,0.33299999999999996
+Houston,Quick Facts,2017-09,Labor Force Size,Labor Force Size,3308013.0,0.002
+Houston,Quick Facts,2017-09,Total Employment,Total Employment,3148776.0,0.011000000000000001
+Houston,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.048,-0.009000000000000001
+Seattle,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,60351.0,0.021
+Seattle,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Seattle,Quick Facts,2017-11,Job Openings,Job Openings,103743.0,0.132
+Seattle,Quick Facts,2017-09,Labor Force Size,Labor Force Size,2091771.0,0.025
+Seattle,Quick Facts,2017-09,Total Employment,Total Employment,2004544.0,0.027000000000000003
+Seattle,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.042,-0.002
+San Francisco,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,67768.0,0.019
+San Francisco,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+San Francisco,Quick Facts,2017-11,Job Openings,Job Openings,137368.0,0.258
+San Francisco,Quick Facts,2017-09,Labor Force Size,Labor Force Size,2586523.0,0.012
+San Francisco,Quick Facts,2017-09,Total Employment,Total Employment,2499899.0,0.016
+San Francisco,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.033,-0.004
+Chicago,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,55531.0,0.012
+Chicago,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Chicago,Quick Facts,2017-11,Job Openings,Job Openings,182430.0,0.10300000000000001
+Chicago,Quick Facts,2017-09,Labor Force Size,Labor Force Size,4853424.0,-0.011000000000000001
+Chicago,Quick Facts,2017-09,Total Employment,Total Employment,4627419.0,-0.002
+Chicago,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.047,-0.008
+Boston,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,58350.0,0.018000000000000002
+Boston,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Boston,Quick Facts,2017-11,Job Openings,Job Openings,137810.0,0.131
+Boston,Quick Facts,2017-09,Labor Force Size,Labor Force Size,2689142.0,0.022000000000000002
+Boston,Quick Facts,2017-09,Total Employment,Total Employment,2601340.0,0.02
+Boston,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.033,0.002
+Washington DC,Quick Facts,2017-11,Metro Median Pay,Metro Median Pay,58548.0,0.009000000000000001
+Washington DC,Quick Facts,2017-11,U.S. Median Pay,U.S. Median Pay,51059.0,0.012
+Washington DC,Quick Facts,2017-11,Job Openings,Job Openings,164982.0,0.018000000000000002
+Washington DC,Quick Facts,2017-09,Labor Force Size,Labor Force Size,3402900.0,0.026000000000000002
+Washington DC,Quick Facts,2017-09,Total Employment,Total Employment,3280562.0,0.028999999999999998
+Washington DC,Quick Facts,2017-09,Unemployment Rate,Unemployment Rate,0.036000000000000004,-0.003
+National,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Atlanta,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,52842.0,0.01
+Atlanta,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Atlanta,Quick Facts,2017-12,Job Openings,Job Openings,111752.0,0.182
+Atlanta,Quick Facts,2017-10,Labor Force Size,Labor Force Size,3046032.0,0.024
+Atlanta,Quick Facts,2017-10,Total Employment,Total Employment,2919796.0,0.036000000000000004
+Atlanta,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.040999999999999995,-0.011000000000000001
+New York City,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,60487.0,0.013000000000000001
+New York City,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+New York City,Quick Facts,2017-12,Job Openings,Job Openings,280380.0,0.141
+New York City,Quick Facts,2017-10,Labor Force Size,Labor Force Size,10098358.0,0.013000000000000001
+New York City,Quick Facts,2017-10,Total Employment,Total Employment,9632081.0,0.013999999999999999
+New York City,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.046,-0.001
+Los Angeles,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,59655.0,0.015
+Los Angeles,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Los Angeles,Quick Facts,2017-12,Job Openings,Job Openings,202348.0,0.254
+Los Angeles,Quick Facts,2017-10,Labor Force Size,Labor Force Size,6770590.0,0.013000000000000001
+Los Angeles,Quick Facts,2017-10,Total Employment,Total Employment,6493038.0,0.022000000000000002
+Los Angeles,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.040999999999999995,-0.008
+Philadelphia,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,54132.0,0.004
+Philadelphia,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Philadelphia,Quick Facts,2017-12,Job Openings,Job Openings,108832.0,0.122
+Philadelphia,Quick Facts,2017-10,Labor Force Size,Labor Force Size,3089440.0,-0.003
+Philadelphia,Quick Facts,2017-10,Total Employment,Total Employment,2953777.0,0.003
+Philadelphia,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.044000000000000004,-0.006
+Houston,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,54292.0,-0.003
+Houston,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Houston,Quick Facts,2017-12,Job Openings,Job Openings,92153.0,0.28
+Houston,Quick Facts,2017-10,Labor Force Size,Labor Force Size,3290419.0,-0.001
+Houston,Quick Facts,2017-10,Total Employment,Total Employment,3155090.0,0.012
+Houston,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.040999999999999995,-0.012
+Seattle,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,60339.0,0.016
+Seattle,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Seattle,Quick Facts,2017-12,Job Openings,Job Openings,92673.0,0.017
+Seattle,Quick Facts,2017-10,Labor Force Size,Labor Force Size,2070342.0,0.015
+Seattle,Quick Facts,2017-10,Total Employment,Total Employment,1987746.0,0.018000000000000002
+Seattle,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.04,-0.003
+San Francisco,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,68078.0,0.02
+San Francisco,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+San Francisco,Quick Facts,2017-12,Job Openings,Job Openings,139212.0,0.302
+San Francisco,Quick Facts,2017-10,Labor Force Size,Labor Force Size,2577098.0,0.004
+San Francisco,Quick Facts,2017-10,Total Employment,Total Employment,2498582.0,0.012
+San Francisco,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.03,-0.008
+Chicago,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,55486.0,0.006
+Chicago,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Chicago,Quick Facts,2017-12,Job Openings,Job Openings,180362.0,0.161
+Chicago,Quick Facts,2017-10,Labor Force Size,Labor Force Size,4860658.0,-0.01
+Chicago,Quick Facts,2017-10,Total Employment,Total Employment,4630121.0,-0.002
+Chicago,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.047,-0.008
+Boston,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,58544.0,0.018000000000000002
+Boston,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Boston,Quick Facts,2017-12,Job Openings,Job Openings,137218.0,0.177
+Boston,Quick Facts,2017-10,Labor Force Size,Labor Force Size,2681283.0,0.013999999999999999
+Boston,Quick Facts,2017-10,Total Employment,Total Employment,2599323.0,0.01
+Boston,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.031,0.004
+Washington DC,Quick Facts,2017-12,Metro Median Pay,Metro Median Pay,59014.0,0.015
+Washington DC,Quick Facts,2017-12,U.S. Median Pay,U.S. Median Pay,51210.0,0.011000000000000001
+Washington DC,Quick Facts,2017-12,Job Openings,Job Openings,160082.0,0.052000000000000005
+Washington DC,Quick Facts,2017-10,Labor Force Size,Labor Force Size,3394279.0,0.017
+Washington DC,Quick Facts,2017-10,Total Employment,Total Employment,3270742.0,0.019
+Washington DC,Quick Facts,2017-10,Unemployment Rate,Unemployment Rate,0.036000000000000004,-0.003
+National,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Atlanta,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,53415.0,0.018000000000000002
+Atlanta,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Atlanta,Quick Facts,2018-01,Job Openings,Job Openings,113354.0,0.193
+Atlanta,Quick Facts,2017-11,Labor Force Size,Labor Force Size,3046313.0,0.024
+Atlanta,Quick Facts,2017-11,Total Employment,Total Employment,2919300.0,0.031
+Atlanta,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.042,-0.006
+New York City,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,61042.0,0.017
+New York City,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+New York City,Quick Facts,2018-01,Job Openings,Job Openings,289409.0,0.155
+New York City,Quick Facts,2017-11,Labor Force Size,Labor Force Size,10029312.0,0.01
+New York City,Quick Facts,2017-11,Total Employment,Total Employment,9594611.0,0.01
+New York City,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.043,0.0
+Los Angeles,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,59906.0,0.015
+Los Angeles,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Los Angeles,Quick Facts,2018-01,Job Openings,Job Openings,202713.0,0.22399999999999998
+Los Angeles,Quick Facts,2017-11,Labor Force Size,Labor Force Size,6762774.0,0.013000000000000001
+Los Angeles,Quick Facts,2017-11,Total Employment,Total Employment,6504464.0,0.021
+Los Angeles,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.038,-0.006999999999999999
+Philadelphia,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,54240.0,0.004
+Philadelphia,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Philadelphia,Quick Facts,2018-01,Job Openings,Job Openings,108740.0,0.11199999999999999
+Philadelphia,Quick Facts,2017-11,Labor Force Size,Labor Force Size,3093418.0,-0.003
+Philadelphia,Quick Facts,2017-11,Total Employment,Total Employment,2957001.0,-0.002
+Philadelphia,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.044000000000000004,-0.001
+Houston,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,54660.0,0.004
+Houston,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Houston,Quick Facts,2018-01,Job Openings,Job Openings,90687.0,0.191
+Houston,Quick Facts,2017-11,Labor Force Size,Labor Force Size,3309912.0,0.004
+Houston,Quick Facts,2017-11,Total Employment,Total Employment,3167488.0,0.013999999999999999
+Houston,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.043,-0.009000000000000001
+Seattle,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,60549.0,0.011000000000000001
+Seattle,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Seattle,Quick Facts,2018-01,Job Openings,Job Openings,93648.0,0.006999999999999999
+Seattle,Quick Facts,2017-11,Labor Force Size,Labor Force Size,2079823.0,0.019
+Seattle,Quick Facts,2017-11,Total Employment,Total Employment,1993742.0,0.021
+Seattle,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.040999999999999995,-0.002
+San Francisco,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,68328.0,0.022000000000000002
+San Francisco,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+San Francisco,Quick Facts,2018-01,Job Openings,Job Openings,139477.0,0.25
+San Francisco,Quick Facts,2017-11,Labor Force Size,Labor Force Size,2581796.0,0.01
+San Francisco,Quick Facts,2017-11,Total Employment,Total Employment,2513630.0,0.02
+San Francisco,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.026000000000000002,-0.009000000000000001
+Chicago,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,55726.0,0.001
+Chicago,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Chicago,Quick Facts,2018-01,Job Openings,Job Openings,186970.0,0.222
+Chicago,Quick Facts,2017-11,Labor Force Size,Labor Force Size,4882913.0,0.0
+Chicago,Quick Facts,2017-11,Total Employment,Total Employment,4654658.0,0.005
+Chicago,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.047,-0.005
+Boston,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,58774.0,0.017
+Boston,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Boston,Quick Facts,2018-01,Job Openings,Job Openings,146363.0,0.226
+Boston,Quick Facts,2017-11,Labor Force Size,Labor Force Size,2683488.0,0.011000000000000001
+Boston,Quick Facts,2017-11,Total Employment,Total Employment,2602919.0,0.006
+Boston,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.03,0.004
+Washington DC,Quick Facts,2018-01,Metro Median Pay,Metro Median Pay,59269.0,0.019
+Washington DC,Quick Facts,2018-01,U.S. Median Pay,U.S. Median Pay,51364.0,0.009000000000000001
+Washington DC,Quick Facts,2018-01,Job Openings,Job Openings,164201.0,0.08900000000000001
+Washington DC,Quick Facts,2017-11,Labor Force Size,Labor Force Size,3380530.0,0.013999999999999999
+Washington DC,Quick Facts,2017-11,Total Employment,Total Employment,3257918.0,0.013999999999999999
+Washington DC,Quick Facts,2017-11,Unemployment Rate,Unemployment Rate,0.036000000000000004,0.0
+National,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Atlanta,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,53870.0,0.017
+Atlanta,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Atlanta,Quick Facts,2018-02,Job Openings,Job Openings,111588.0,0.141
+Atlanta,Quick Facts,2017-12,Labor Force Size,Labor Force Size,3053437.0,0.023
+Atlanta,Quick Facts,2017-12,Total Employment,Total Employment,2927274.0,0.032
+Atlanta,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.040999999999999995,-0.009000000000000001
+New York City,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,61857.0,0.018000000000000002
+New York City,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+New York City,Quick Facts,2018-02,Job Openings,Job Openings,300950.0,0.166
+New York City,Quick Facts,2017-12,Labor Force Size,Labor Force Size,9929504.0,0.004
+New York City,Quick Facts,2017-12,Total Employment,Total Employment,9534742.0,0.006
+New York City,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.04,-0.002
+Los Angeles,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,60420.0,0.009000000000000001
+Los Angeles,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Los Angeles,Quick Facts,2018-02,Job Openings,Job Openings,212700.0,0.233
+Los Angeles,Quick Facts,2017-12,Labor Force Size,Labor Force Size,6736770.0,0.013000000000000001
+Los Angeles,Quick Facts,2017-12,Total Employment,Total Employment,6477047.0,0.019
+Los Angeles,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.039,-0.005
+Philadelphia,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,55512.0,0.012
+Philadelphia,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Philadelphia,Quick Facts,2018-02,Job Openings,Job Openings,110289.0,0.096
+Philadelphia,Quick Facts,2017-12,Labor Force Size,Labor Force Size,3070315.0,-0.006
+Philadelphia,Quick Facts,2017-12,Total Employment,Total Employment,2941876.0,-0.005
+Philadelphia,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.042,-0.001
+Houston,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,55621.0,0.013000000000000001
+Houston,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Houston,Quick Facts,2018-02,Job Openings,Job Openings,93800.0,0.185
+Houston,Quick Facts,2017-12,Labor Force Size,Labor Force Size,3328011.0,0.009000000000000001
+Houston,Quick Facts,2017-12,Total Employment,Total Employment,3184224.0,0.019
+Houston,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.043,-0.01
+Seattle,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,61576.0,0.01
+Seattle,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Seattle,Quick Facts,2018-02,Job Openings,Job Openings,104720.0,0.013999999999999999
+Seattle,Quick Facts,2017-12,Labor Force Size,Labor Force Size,2083271.0,0.022000000000000002
+Seattle,Quick Facts,2017-12,Total Employment,Total Employment,1998829.0,0.022000000000000002
+Seattle,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.040999999999999995,0.001
+San Francisco,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,69276.0,0.031
+San Francisco,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+San Francisco,Quick Facts,2018-02,Job Openings,Job Openings,146218.0,0.27399999999999997
+San Francisco,Quick Facts,2017-12,Labor Force Size,Labor Force Size,2580414.0,0.009000000000000001
+San Francisco,Quick Facts,2017-12,Total Employment,Total Employment,2511205.0,0.016
+San Francisco,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.027000000000000003,-0.006999999999999999
+Chicago,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,56304.0,0.0
+Chicago,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Chicago,Quick Facts,2018-02,Job Openings,Job Openings,194029.0,0.22399999999999998
+Chicago,Quick Facts,2017-12,Labor Force Size,Labor Force Size,4868875.0,-0.002
+Chicago,Quick Facts,2017-12,Total Employment,Total Employment,4639352.0,0.006
+Chicago,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.047,-0.008
+Boston,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,59363.0,0.011000000000000001
+Boston,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Boston,Quick Facts,2018-02,Job Openings,Job Openings,157492.0,0.281
+Boston,Quick Facts,2017-12,Labor Force Size,Labor Force Size,2681518.0,0.012
+Boston,Quick Facts,2017-12,Total Employment,Total Employment,2607450.0,0.009000000000000001
+Boston,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.027999999999999997,0.003
+Washington DC,Quick Facts,2018-02,Metro Median Pay,Metro Median Pay,59780.0,0.019
+Washington DC,Quick Facts,2018-02,U.S. Median Pay,U.S. Median Pay,51975.0,0.01
+Washington DC,Quick Facts,2018-02,Job Openings,Job Openings,170145.0,0.098
+Washington DC,Quick Facts,2017-12,Labor Force Size,Labor Force Size,3364877.0,0.013000000000000001
+Washington DC,Quick Facts,2017-12,Total Employment,Total Employment,3253670.0,0.015
+Washington DC,Quick Facts,2017-12,Unemployment Rate,Unemployment Rate,0.033,-0.002
+National,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Atlanta,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,53801.0,0.018000000000000002
+Atlanta,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Atlanta,Quick Facts,2018-03,Job Openings,Job Openings,118312.0,0.214
+New York City,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,61759.0,0.018000000000000002
+New York City,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+New York City,Quick Facts,2018-03,Job Openings,Job Openings,351697.0,0.37200000000000005
+Los Angeles,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,60423.0,0.009000000000000001
+Los Angeles,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Los Angeles,Quick Facts,2018-03,Job Openings,Job Openings,217698.0,0.248
+Philadelphia,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,55510.0,0.011000000000000001
+Philadelphia,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Philadelphia,Quick Facts,2018-03,Job Openings,Job Openings,132531.0,0.33
+Houston,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,55571.0,0.021
+Houston,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Houston,Quick Facts,2018-03,Job Openings,Job Openings,101554.0,0.331
+Seattle,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,61562.0,0.019
+Seattle,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Seattle,Quick Facts,2018-03,Job Openings,Job Openings,110322.0,0.047
+San Francisco,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,69359.0,0.035
+San Francisco,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+San Francisco,Quick Facts,2018-03,Job Openings,Job Openings,162142.0,0.405
+Chicago,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,56113.0,0.0
+Chicago,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Chicago,Quick Facts,2018-03,Job Openings,Job Openings,204712.0,0.295
+Boston,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,59272.0,0.013999999999999999
+Boston,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Boston,Quick Facts,2018-03,Job Openings,Job Openings,166128.0,0.317
+Washington DC,Quick Facts,2018-03,Metro Median Pay,Metro Median Pay,59582.0,0.013000000000000001
+Washington DC,Quick Facts,2018-03,U.S. Median Pay,U.S. Median Pay,51934.0,0.01
+Washington DC,Quick Facts,2018-03,Job Openings,Job Openings,185647.0,0.21
+National,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Atlanta,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,53732.0,0.019
+Atlanta,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Atlanta,Quick Facts,2018-04,Job Openings,Job Openings,118496.0,0.165
+New York City,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,61590.0,0.018000000000000002
+New York City,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+New York City,Quick Facts,2018-04,Job Openings,Job Openings,301146.0,0.13
+Los Angeles,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,60499.0,0.012
+Los Angeles,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Los Angeles,Quick Facts,2018-04,Job Openings,Job Openings,209471.0,0.134
+Philadelphia,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,55485.0,0.016
+Philadelphia,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Philadelphia,Quick Facts,2018-04,Job Openings,Job Openings,109165.0,0.023
+Houston,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,55736.0,0.025
+Houston,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Houston,Quick Facts,2018-04,Job Openings,Job Openings,97314.0,0.17
+Seattle,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,61597.0,0.024
+Seattle,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Seattle,Quick Facts,2018-04,Job Openings,Job Openings,103939.0,-0.040999999999999995
+San Francisco,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,69392.0,0.037000000000000005
+San Francisco,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+San Francisco,Quick Facts,2018-04,Job Openings,Job Openings,149637.0,0.21899999999999997
+Chicago,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,56195.0,0.006999999999999999
+Chicago,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Chicago,Quick Facts,2018-04,Job Openings,Job Openings,195376.0,0.193
+Boston,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,59421.0,0.013999999999999999
+Boston,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Boston,Quick Facts,2018-04,Job Openings,Job Openings,157479.0,0.21600000000000003
+Washington DC,Quick Facts,2018-04,Metro Median Pay,Metro Median Pay,59851.0,0.02
+Washington DC,Quick Facts,2018-04,U.S. Median Pay,U.S. Median Pay,51927.0,0.012
+Washington DC,Quick Facts,2018-04,Job Openings,Job Openings,172480.0,0.09
+National,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Atlanta,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,53706.0,0.017
+Atlanta,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Atlanta,Quick Facts,2018-05,Job Openings,Job Openings,125231.0,0.22
+New York City,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,62037.0,0.024
+New York City,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+New York City,Quick Facts,2018-05,Job Openings,Job Openings,310306.0,0.174
+Los Angeles,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,60554.0,0.018000000000000002
+Los Angeles,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Los Angeles,Quick Facts,2018-05,Job Openings,Job Openings,222658.0,0.20600000000000002
+Philadelphia,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,55310.0,0.019
+Philadelphia,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Philadelphia,Quick Facts,2018-05,Job Openings,Job Openings,117690.0,0.11699999999999999
+Houston,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,55560.0,0.019
+Houston,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Houston,Quick Facts,2018-05,Job Openings,Job Openings,99274.0,0.14800000000000002
+Seattle,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,61552.0,0.025
+Seattle,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Seattle,Quick Facts,2018-05,Job Openings,Job Openings,112463.0,0.047
+San Francisco,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,69985.0,0.035
+San Francisco,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+San Francisco,Quick Facts,2018-05,Job Openings,Job Openings,155997.0,0.29600000000000004
+Chicago,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,56362.0,0.012
+Chicago,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Chicago,Quick Facts,2018-05,Job Openings,Job Openings,219168.0,0.33
+Boston,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,59913.0,0.02
+Boston,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Boston,Quick Facts,2018-05,Job Openings,Job Openings,164148.0,0.254
+Washington DC,Quick Facts,2018-05,Metro Median Pay,Metro Median Pay,59872.0,0.019
+Washington DC,Quick Facts,2018-05,U.S. Median Pay,U.S. Median Pay,52070.0,0.013000000000000001
+Washington DC,Quick Facts,2018-05,Job Openings,Job Openings,181834.0,0.155
+National,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Atlanta,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,53688.0,0.015
+Atlanta,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Atlanta,Quick Facts,2018-06,Job Openings,Job Openings,133775.0,0.29600000000000004
+New York City,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,61741.0,0.022000000000000002
+New York City,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+New York City,Quick Facts,2018-06,Job Openings,Job Openings,308490.0,0.16899999999999998
+Los Angeles,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,60637.0,0.024
+Los Angeles,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Los Angeles,Quick Facts,2018-06,Job Openings,Job Openings,226785.0,0.22399999999999998
+Philadelphia,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,55646.0,0.027000000000000003
+Philadelphia,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Philadelphia,Quick Facts,2018-06,Job Openings,Job Openings,116549.0,0.106
+Houston,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,55409.0,0.02
+Houston,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Houston,Quick Facts,2018-06,Job Openings,Job Openings,101768.0,0.17600000000000002
+Seattle,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,61641.0,0.024
+Seattle,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Seattle,Quick Facts,2018-06,Job Openings,Job Openings,111340.0,0.11900000000000001
+San Francisco,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,69655.0,0.026000000000000002
+San Francisco,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+San Francisco,Quick Facts,2018-06,Job Openings,Job Openings,155498.0,0.302
+Chicago,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,56447.0,0.015
+Chicago,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Chicago,Quick Facts,2018-06,Job Openings,Job Openings,217777.0,0.299
+Boston,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,59682.0,0.016
+Boston,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Boston,Quick Facts,2018-06,Job Openings,Job Openings,161944.0,0.257
+Washington DC,Quick Facts,2018-06,Metro Median Pay,Metro Median Pay,59855.0,0.023
+Washington DC,Quick Facts,2018-06,U.S. Median Pay,U.S. Median Pay,52052.0,0.016
+Washington DC,Quick Facts,2018-06,Job Openings,Job Openings,183748.0,0.16699999999999998
+National,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Atlanta,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,53871.0,0.019
+Atlanta,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Atlanta,Quick Facts,2018-07,Job Openings,Job Openings,140834.0,0.247
+New York City,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,61836.0,0.026000000000000002
+New York City,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+New York City,Quick Facts,2018-07,Job Openings,Job Openings,331990.0,0.11599999999999999
+Los Angeles,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,60781.0,0.026000000000000002
+Los Angeles,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Los Angeles,Quick Facts,2018-07,Job Openings,Job Openings,240149.0,0.212
+Philadelphia,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,55723.0,0.027999999999999997
+Philadelphia,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Philadelphia,Quick Facts,2018-07,Job Openings,Job Openings,128502.0,0.098
+Houston,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,55474.0,0.02
+Houston,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Houston,Quick Facts,2018-07,Job Openings,Job Openings,106951.0,0.114
+Seattle,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,61415.0,0.021
+Seattle,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Seattle,Quick Facts,2018-07,Job Openings,Job Openings,121889.0,0.151
+San Francisco,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,69404.0,0.027000000000000003
+San Francisco,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+San Francisco,Quick Facts,2018-07,Job Openings,Job Openings,158910.0,0.22399999999999998
+Chicago,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,56636.0,0.026000000000000002
+Chicago,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Chicago,Quick Facts,2018-07,Job Openings,Job Openings,225448.0,0.205
+Boston,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,59698.0,0.02
+Boston,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Boston,Quick Facts,2018-07,Job Openings,Job Openings,177564.0,0.313
+Washington DC,Quick Facts,2018-07,Metro Median Pay,Metro Median Pay,59654.0,0.017
+Washington DC,Quick Facts,2018-07,U.S. Median Pay,U.S. Median Pay,52267.0,0.022000000000000002
+Washington DC,Quick Facts,2018-07,Job Openings,Job Openings,199772.0,0.154
+National,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Atlanta,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,54237.0,0.024
+Atlanta,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Atlanta,Quick Facts,2018-08,Job Openings,Job Openings,152064.0,0.391
+New York City,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,62338.0,0.025
+New York City,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+New York City,Quick Facts,2018-08,Job Openings,Job Openings,388281.0,0.353
+Los Angeles,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,61137.0,0.026000000000000002
+Los Angeles,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Los Angeles,Quick Facts,2018-08,Job Openings,Job Openings,253315.0,0.282
+Philadelphia,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,55859.0,0.025
+Philadelphia,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Philadelphia,Quick Facts,2018-08,Job Openings,Job Openings,158424.0,0.485
+Houston,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,55481.0,0.016
+Houston,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Houston,Quick Facts,2018-08,Job Openings,Job Openings,108611.0,0.18600000000000003
+Seattle,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,61929.0,0.023
+Seattle,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Seattle,Quick Facts,2018-08,Job Openings,Job Openings,134821.0,0.272
+San Francisco,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,69887.0,0.032
+San Francisco,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+San Francisco,Quick Facts,2018-08,Job Openings,Job Openings,175979.0,0.348
+Chicago,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,56636.0,0.023
+Chicago,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Chicago,Quick Facts,2018-08,Job Openings,Job Openings,259036.0,0.512
+Boston,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,59712.0,0.017
+Boston,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Boston,Quick Facts,2018-08,Job Openings,Job Openings,206840.0,0.595
+Washington DC,Quick Facts,2018-08,Metro Median Pay,Metro Median Pay,59990.0,0.013000000000000001
+Washington DC,Quick Facts,2018-08,U.S. Median Pay,U.S. Median Pay,52461.0,0.024
+Washington DC,Quick Facts,2018-08,Job Openings,Job Openings,218796.0,0.33899999999999997
+National,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Atlanta,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,54329.0,0.023
+Atlanta,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Atlanta,Quick Facts,2018-09,Job Openings,Job Openings,148874.0,0.33299999999999996
+New York City,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,62761.0,0.03
+New York City,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+New York City,Quick Facts,2018-09,Job Openings,Job Openings,386626.0,0.32799999999999996
+Los Angeles,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,61507.0,0.028999999999999998
+Los Angeles,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Los Angeles,Quick Facts,2018-09,Job Openings,Job Openings,263728.0,0.265
+Philadelphia,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,56206.0,0.027999999999999997
+Philadelphia,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Philadelphia,Quick Facts,2018-09,Job Openings,Job Openings,164551.0,0.46299999999999997
+Houston,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,55722.0,0.017
+Houston,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Houston,Quick Facts,2018-09,Job Openings,Job Openings,115573.0,0.23600000000000002
+Seattle,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,62254.0,0.027000000000000003
+Seattle,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Seattle,Quick Facts,2018-09,Job Openings,Job Openings,137102.0,0.252
+San Francisco,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,70361.0,0.039
+San Francisco,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+San Francisco,Quick Facts,2018-09,Job Openings,Job Openings,191445.0,0.34700000000000003
+Chicago,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,56934.0,0.027999999999999997
+Chicago,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Chicago,Quick Facts,2018-09,Job Openings,Job Openings,269897.0,0.495
+Boston,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,60038.0,0.02
+Boston,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Boston,Quick Facts,2018-09,Job Openings,Job Openings,217294.0,0.609
+Washington DC,Quick Facts,2018-09,Metro Median Pay,Metro Median Pay,60535.0,0.019
+Washington DC,Quick Facts,2018-09,U.S. Median Pay,U.S. Median Pay,52664.0,0.026000000000000002
+Washington DC,Quick Facts,2018-09,Job Openings,Job Openings,233467.0,0.379
+National,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Atlanta,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,54607.0,0.026000000000000002
+Atlanta,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Atlanta,Quick Facts,2018-10,Job Openings,Job Openings,129987.0,0.142
+New York City,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,63029.0,0.034
+New York City,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+New York City,Quick Facts,2018-10,Job Openings,Job Openings,323043.0,0.086
+Los Angeles,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,61454.0,0.026000000000000002
+Los Angeles,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Los Angeles,Quick Facts,2018-10,Job Openings,Job Openings,221382.0,0.07200000000000001
+Philadelphia,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,55846.0,0.019
+Philadelphia,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Philadelphia,Quick Facts,2018-10,Job Openings,Job Openings,116995.0,0.024
+Houston,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,55914.0,0.021
+Houston,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Houston,Quick Facts,2018-10,Job Openings,Job Openings,105726.0,0.06
+Seattle,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,62496.0,0.024
+Seattle,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Seattle,Quick Facts,2018-10,Job Openings,Job Openings,116291.0,0.13
+San Francisco,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,70810.0,0.04
+San Francisco,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+San Francisco,Quick Facts,2018-10,Job Openings,Job Openings,161991.0,0.168
+Chicago,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,56873.0,0.02
+Chicago,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Chicago,Quick Facts,2018-10,Job Openings,Job Openings,208386.0,0.145
+Boston,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,60471.0,0.024
+Boston,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Boston,Quick Facts,2018-10,Job Openings,Job Openings,158742.0,0.174
+Washington DC,Quick Facts,2018-10,Metro Median Pay,Metro Median Pay,60890.0,0.027000000000000003
+Washington DC,Quick Facts,2018-10,U.S. Median Pay,U.S. Median Pay,52746.0,0.024
+Washington DC,Quick Facts,2018-10,Job Openings,Job Openings,182741.0,0.079
+National,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Atlanta,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,54850.0,0.027999999999999997
+Atlanta,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Atlanta,Quick Facts,2018-11,Job Openings,Job Openings,132923.0,0.191
+New York City,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,63288.0,0.04
+New York City,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+New York City,Quick Facts,2018-11,Job Openings,Job Openings,316175.0,0.08800000000000001
+Los Angeles,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,61798.0,0.026000000000000002
+Los Angeles,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Los Angeles,Quick Facts,2018-11,Job Openings,Job Openings,226960.0,0.11699999999999999
+Philadelphia,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,55996.0,0.023
+Philadelphia,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Philadelphia,Quick Facts,2018-11,Job Openings,Job Openings,120001.0,0.091
+Houston,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,56159.0,0.025
+Houston,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Houston,Quick Facts,2018-11,Job Openings,Job Openings,105854.0,0.102
+Seattle,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,63030.0,0.027999999999999997
+Seattle,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Seattle,Quick Facts,2018-11,Job Openings,Job Openings,121804.0,0.192
+San Francisco,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,71420.0,0.046
+San Francisco,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+San Francisco,Quick Facts,2018-11,Job Openings,Job Openings,159095.0,0.161
+Chicago,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,57211.0,0.024
+Chicago,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Chicago,Quick Facts,2018-11,Job Openings,Job Openings,218155.0,0.184
+Boston,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,60783.0,0.03
+Boston,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Boston,Quick Facts,2018-11,Job Openings,Job Openings,160054.0,0.162
+Washington DC,Quick Facts,2018-11,Metro Median Pay,Metro Median Pay,61297.0,0.032
+Washington DC,Quick Facts,2018-11,U.S. Median Pay,U.S. Median Pay,52943.0,0.026000000000000002
+Washington DC,Quick Facts,2018-11,Job Openings,Job Openings,180652.0,0.106
+National,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Atlanta,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,55324.0,0.034
+Atlanta,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Atlanta,Quick Facts,2018-12,Job Openings,Job Openings,135349.0,0.24
+New York City,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,63368.0,0.035
+New York City,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+New York City,Quick Facts,2018-12,Job Openings,Job Openings,317467.0,0.138
+Los Angeles,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,62002.0,0.027000000000000003
+Los Angeles,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Los Angeles,Quick Facts,2018-12,Job Openings,Job Openings,225689.0,0.13699999999999998
+Philadelphia,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,56091.0,0.025
+Philadelphia,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Philadelphia,Quick Facts,2018-12,Job Openings,Job Openings,122156.0,0.142
+Houston,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,55981.0,0.017
+Houston,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Houston,Quick Facts,2018-12,Job Openings,Job Openings,108006.0,0.166
+Seattle,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,63178.0,0.027999999999999997
+Seattle,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Seattle,Quick Facts,2018-12,Job Openings,Job Openings,121134.0,0.33399999999999996
+San Francisco,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,71482.0,0.04
+San Francisco,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+San Francisco,Quick Facts,2018-12,Job Openings,Job Openings,159308.0,0.177
+Chicago,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,57206.0,0.021
+Chicago,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Chicago,Quick Facts,2018-12,Job Openings,Job Openings,217651.0,0.221
+Boston,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,61232.0,0.033
+Boston,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Boston,Quick Facts,2018-12,Job Openings,Job Openings,157345.0,0.18899999999999997
+Washington DC,Quick Facts,2018-12,Metro Median Pay,Metro Median Pay,61155.0,0.024
+Washington DC,Quick Facts,2018-12,U.S. Median Pay,U.S. Median Pay,52863.0,0.023
+Washington DC,Quick Facts,2018-12,Job Openings,Job Openings,182475.0,0.154
+National,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+National,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+Atlanta,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,117509.0,0.17600000000000002
+Atlanta,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+Atlanta,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,55148.0,0.026000000000000002
+Atlanta,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+New-York-City,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,298328.0,0.105
+New-York-City,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+New-York-City,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,63655.0,0.03
+New-York-City,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+Los-Angeles,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,208483.0,0.047
+Los-Angeles,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+Los-Angeles,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,62172.0,0.028999999999999998
+Los-Angeles,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+Philadelphia,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,107070.0,0.128
+Philadelphia,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+Philadelphia,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,56645.0,0.031
+Philadelphia,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+Houston,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,95322.0,0.07400000000000001
+Houston,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+Houston,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,56025.0,0.012
+Houston,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+Seattle,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,105278.0,0.17300000000000001
+Seattle,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+Seattle,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,62808.0,0.027000000000000003
+Seattle,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+San-Francisco,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,145934.0,0.141
+San-Francisco,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+San-Francisco,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,71980.0,0.036000000000000004
+San-Francisco,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+Chicago,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,189174.0,0.138
+Chicago,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+Chicago,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,57436.0,0.024
+Chicago,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+Boston,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,142435.0,0.20800000000000002
+Boston,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+Boston,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,61011.0,0.027000000000000003
+Boston,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+Washington-DC,Quick Facts,2019-01,Metro Job Openings,Metro Job Openings,174359.0,0.1
+Washington-DC,Quick Facts,2019-01,U.S. Job Openings,U.S. Job Openings,5815149.0,0.147
+Washington-DC,Quick Facts,2019-01,Metro Median Pay,Metro Median Pay,61381.0,0.026000000000000002
+Washington-DC,Quick Facts,2019-01,U.S. Median Pay,U.S. Median Pay,52964.0,0.023
+National,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+National,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+Atlanta,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,120460.0,0.166
+Atlanta,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+Atlanta,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,54921.0,0.022000000000000002
+Atlanta,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+New York City,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,302080.0,0.067
+New York City,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+New York City,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,63479.0,0.02
+New York City,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+Los Angeles,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,209366.0,0.03
+Los Angeles,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+Los Angeles,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,61739.0,0.023
+Los Angeles,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+Philadelphia,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,109676.0,0.11900000000000001
+Philadelphia,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+Philadelphia,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,56524.0,0.018000000000000002
+Philadelphia,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+Houston,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,93925.0,0.032
+Houston,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+Houston,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,55601.0,0.0
+Houston,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+Seattle,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,107274.0,0.09699999999999999
+Seattle,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+Seattle,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,62756.0,0.023
+Seattle,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+San Francisco,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,147428.0,0.094
+San Francisco,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+San Francisco,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,71444.0,0.025
+San Francisco,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+Chicago,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,191809.0,0.1
+Chicago,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+Chicago,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,57090.0,0.017
+Chicago,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+Boston,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,143389.0,0.159
+Boston,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+Boston,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,60941.0,0.024
+Boston,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
+Washington DC,Quick Facts,2019-02,Metro Job Openings,Metro Job Openings,173063.0,0.032
+Washington DC,Quick Facts,2019-02,U.S. Job Openings,U.S. Job Openings,5852354.0,0.11199999999999999
+Washington DC,Quick Facts,2019-02,Metro Median Pay,Metro Median Pay,61202.0,0.022000000000000002
+Washington DC,Quick Facts,2019-02,U.S. Median Pay,U.S. Median Pay,52672.0,0.013000000000000001
